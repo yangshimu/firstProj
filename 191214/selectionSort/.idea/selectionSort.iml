@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (selectionSort)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="bubbleSort" />
+    <orderEntry type="module" module-name="mergeSort" />
+    <orderEntry type="module" module-name="maxSubarray1" />
+    <orderEntry type="module" module-name="HeapSort" />
+    <orderEntry type="module" module-name="priorityQueue" />
+    <orderEntry type="module" module-name="quickSort" />
+    <orderEntry type="module" module-name="countSort" />
+    <orderEntry type="module" module-name="radixSort" />
+    <orderEntry type="module" module-name="bucketSort" />
+    <orderEntry type="module" module-name="insertionSort" />
+  </component>
+</module>

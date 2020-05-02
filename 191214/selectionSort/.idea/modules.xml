@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../HeapSort/.idea/HeapSort.iml" filepath="$PROJECT_DIR$/../../HeapSort/.idea/HeapSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bubbleSort/.idea/bubbleSort.iml" filepath="$PROJECT_DIR$/../bubbleSort/.idea/bubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../bucketSort/.idea/bucketSort.iml" filepath="$PROJECT_DIR$/../../bucketSort/.idea/bucketSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../countSort/.idea/countSort.iml" filepath="$PROJECT_DIR$/../../countSort/.idea/countSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../191213/insertionSort/.idea/insertionSort.iml" filepath="$PROJECT_DIR$/../../191213/insertionSort/.idea/insertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../maxSubarray1/.idea/maxSubarray1.iml" filepath="$PROJECT_DIR$/../../maxSubarray1/.idea/maxSubarray1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mergeSort/.idea/mergeSort.iml" filepath="$PROJECT_DIR$/../mergeSort/.idea/mergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../priorityQueue/.idea/priorityQueue.iml" filepath="$PROJECT_DIR$/../../priorityQueue/.idea/priorityQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../quickSort/.idea/quickSort.iml" filepath="$PROJECT_DIR$/../../quickSort/.idea/quickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../radixSort/.idea/radixSort.iml" filepath="$PROJECT_DIR$/../../radixSort/.idea/radixSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/selectionSort.iml" filepath="$PROJECT_DIR$/.idea/selectionSort.iml" />
+    </modules>
+  </component>
+</project>
